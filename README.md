@@ -3,7 +3,7 @@ A project to digitally resurrect loved ones in the form of a memorial chatbot in
 
 a Self-hosted web app featuring a large language model which can easily be trained on conversation data exported from popular chat apps
 
-##rambling history
+## rambling history
 This is my friend Corey
 
 ![IMG_3450](https://user-images.githubusercontent.com/762694/233903740-410d191d-62d0-4534-8879-966ca111abb2.GIF)
