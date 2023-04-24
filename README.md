@@ -25,12 +25,18 @@ I'm not a programmer, but I feel like I know enough to break this down into step
 # *anyway*
 
 ## roadmap
+### training data
 - [x] download all available data to use for training
-
   - I used [DiscordMate - Discord Chat Exporter](https://chrome.google.com/webstore/detail/discord/ofjlibelpafmdhigfgggickpejfomamk) to grab our chat history on Discord. It goes much further back on google hangouts, but I've got a google takeout thing happening now
 ![image](https://user-images.githubusercontent.com/762694/233908894-bf8710fb-695b-4d74-972e-54727e9f0dec.png)
 - [ ] prune and refactor data to isolate relevant content
 - [ ] achieve a thing
 - [ ] repeat
+
+### Bot Functionality
+  - [ ] make a discord bot through discord interface 
+  - [ ] get GPT-J style bot up and running on PC
+  - [ ] use GPT-J Api to establish connection w server. Make a new test server specifically for this.
+  
 
 
