@@ -29,7 +29,7 @@ I'm not a programmer, but I feel like I know enough to break this down into step
 
   - I used [DiscordMate - Discord Chat Exporter](https://chrome.google.com/webstore/detail/discord/ofjlibelpafmdhigfgggickpejfomamk) to grab our chat history on Discord. It goes much further back on google hangouts, but I've got a google takeout thing happening now
 ![image](https://user-images.githubusercontent.com/762694/233908894-bf8710fb-695b-4d74-972e-54727e9f0dec.png)
-- [ ] prune data
+- [ ] prune and refactor data to isolate relevant content
 - [ ] achieve a thing
 - [ ] repeat
 
